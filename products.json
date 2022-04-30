@@ -1,0 +1,37 @@
+[{
+    "id":1,
+    "title":"T-Shirt",
+    "desc":"description of product",
+    "img":"../images/admin1.png",
+    "price":12.34
+},{
+    "id":2,
+    "title":"Bullhorn",
+    "desc":"description of product",
+    "img":"../images/admin1.png",
+    "price":12.34
+},{
+    "id":789,
+    "title":"Clock",
+    "desc":"description of product",
+    "img":"../images/admin1.png",
+    "price":12.34
+},{
+    "id":3,
+    "title":"Cog",
+    "desc":"description of product",
+    "img":"../images/admin1.png",
+    "price":12.34
+},{
+    "id":4,
+    "title":"Phone",
+    "desc":"description of product",
+    "img":"../images/admin1.png",
+    "price":12.34
+},{
+    "id":5,
+    "title":"Lightbulb",
+    "desc":"description of product",
+    "img":"../images/admin1.png",
+    "price":12.34
+}]

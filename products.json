@@ -6,31 +6,31 @@
     "price":12.34
 },{
     "id":2,
-    "title":"Bullhorn",
+    "title":"Mouse Mat",
     "desc":"description of product",
     "img":"../images/admin1.png",
     "price":12.34
 },{
     "id":789,
-    "title":"Clock",
+    "title":"Mouse",
     "desc":"description of product",
     "img":"../images/admin1.png",
     "price":12.34
 },{
     "id":3,
-    "title":"Cog",
+    "title":"Keyboard",
     "desc":"description of product",
     "img":"../images/admin1.png",
     "price":12.34
 },{
     "id":4,
-    "title":"Phone",
+    "title":"Microphone",
     "desc":"description of product",
     "img":"../images/admin1.png",
     "price":12.34
 },{
     "id":5,
-    "title":"Lightbulb",
+    "title":"Headphones",
     "desc":"description of product",
     "img":"../images/admin1.png",
     "price":12.34

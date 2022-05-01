@@ -11,25 +11,25 @@
     "img":"../images/admin1.png",
     "price":12.34
 },{
-    "id":789,
+    "id":3,
     "title":"Mouse",
     "desc":"description of product",
     "img":"../images/admin1.png",
     "price":12.34
 },{
-    "id":3,
+    "id":4,
     "title":"Keyboard",
     "desc":"description of product",
     "img":"../images/admin1.png",
     "price":12.34
 },{
-    "id":4,
+    "id":5,
     "title":"Microphone",
     "desc":"description of product",
     "img":"../images/admin1.png",
     "price":12.34
 },{
-    "id":5,
+    "id":6,
     "title":"Headphones",
     "desc":"description of product",
     "img":"../images/admin1.png",
